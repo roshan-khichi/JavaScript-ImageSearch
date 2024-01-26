@@ -167,7 +167,7 @@ h1{
     margin-right: auto;
     margin-bottom: auto;
     width: 90%;
-    object-fit:fill;
+    object-fit:cover;
     height: 100%;
     padding-bottom: 15px;
 }
